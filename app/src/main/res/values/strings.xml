@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome">Welcome</string>
+    <string name="data">data stored in the local Database</string>
+    <string name="click_me">Click Here to Add Location</string>
+    <string name="click_me_map">Click Here to See Map</string>
+    <string name="enter_lat">Enter Latitude</string>
+    <string name="enter_lng">Enter Longitude</string>
+    <string name="add_location">Add Location</string>
+    <string name="lat">Latitude:</string>
+    <string name="lng">Longitude:</string>
+    <string name="open_map">Open Map</string>
+    <string name="backtomain">Back to Main</string>
+    <string name="back">Go Back</string>
+    <string name="address">Location Address</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
